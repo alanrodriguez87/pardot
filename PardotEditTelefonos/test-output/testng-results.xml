@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19776" started-at="2020-01-15T17:24:14Z" finished-at="2020-01-15T17:24:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19776" started-at="2020-01-15T17:24:14Z" finished-at="2020-01-15T17:24:34Z">
+      <class name="main.execute">
+        <test-method status="PASS" signature="login()[pri:0, instance:main.execute@cc285f4]" name="login" is-config="true" duration-ms="5" started-at="2020-01-15T14:24:15Z" finished-at="2020-01-15T14:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="adads()[pri:0, instance:main.execute@cc285f4]" name="adads" duration-ms="19753" started-at="2020-01-15T14:24:15Z" finished-at="2020-01-15T14:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adads -->
+      </class> <!-- main.execute -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
